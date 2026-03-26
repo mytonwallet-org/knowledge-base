@@ -20,6 +20,13 @@ Your staked TON goes into a **liquid staking** pool. You receive a **liquid toke
 
 If you hold **USDe** (Ethena's stablecoin on TON), you can stake it to earn yield. Your deposited USDe is used in Ethena's trading and investment strategies to generate rewards automatically and transparently.
 
+### How to Stake USDe
+
+1. From the Home tab, access the **Earn** section.
+2. Select the **Ethena USDe** staking option.
+3. Enter the amount of USDe to stake (minimum **1 USDe**).
+4. Review the estimated APY and confirm the transaction.
+
 When you stake USDe, you receive **tsUSDe** — a liquid token representing your staked position. Rewards accumulate in the value of tsUSDe over time.
 
 Withdrawals follow Ethena's standard withdrawal period: unstaked funds are returned to your account **within 7 days**.
@@ -27,6 +34,14 @@ Withdrawals follow Ethena's standard withdrawal period: unstaked funds are retur
 Ethena staking is fully decentralized, operated by Ethena's official audited smart contracts.
 
 Ethena and USDe are independent of MyTonWallet. Treat USDe staking as a third-party product surfaced inside the wallet, not as a native MyTonWallet guarantee.
+
+### Unstaking USDe
+
+1. Go to your Ethena staking position.
+2. Tap **Unstake** and enter the amount.
+3. Confirm the transaction.
+
+Unstaked funds enter a **7-day withdrawal period**. During this time, the amount is locked and shown as a pending unstake request. Once the 7 days pass, tap **Claim** to receive your USDe back.
 
 ## MY Token Staking
 

@@ -20,7 +20,7 @@ You can read files from this directory to answer questions. Use the file map bel
 - `features/send.md` — Sending tokens, TON DNS, comments, encrypted messages, multi-send
 - `features/receive.md` — Sharing address, QR codes, invoices
 - `features/swap.md` — Token swaps (DEX, cross-chain, and to/from external wallets like BTC/ETH)
-- `features/staking.md` — Staking TON and MY tokens, pools, rewards, unstaking
+- `features/staking.md` — Staking TON, MY tokens, and Ethena USDe; pools, rewards, unstaking
 - `features/nfts.md` — NFT gallery, collections, Telegram Gifts, transfers, MTW Cards
 - `features/explore-dapps.md` — Browsing and connecting to dApps
 - `features/push.md` — `@push` Telegram transfers, payment requests, NFTs, Gifts
