@@ -38,13 +38,13 @@ Examples:
 ### Swap
 
 ```
-mtw://swap?in=<tokenSlug>&out=<tokenSlug>&amount=<number>
+mtw://swap?in=<tokenSlug>&out=<tokenSlug>&amountIn=<number>
 ```
 
 Parameters (all optional):
 - `in` — token slug to swap from (default: `toncoin`)
 - `out` — token slug to swap to
-- `amount` — amount of the input token (as a regular number, not nanotons)
+- `amountIn` — amount of the input token (as a regular number, not nanotons)
 
 Examples:
 - `[Swap 100 TON to USDT](mtw://swap?in=toncoin&out=ton-usdt&amount=100)`
