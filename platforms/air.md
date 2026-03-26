@@ -36,6 +36,24 @@ Air includes:
 
 Use Air as the main native mobile experience. If a guide mentions the classic interface, the same feature may appear in a different place in Air.
 
+## Switching Between Air and Classic
+
+Air and Classic are two interfaces within the same mobile app. Your wallets, keys, and data are preserved when switching — nothing is lost.
+
+### Switch from Classic to Air
+
+- **Settings toggle**: In the Classic interface, go to **Settings → Appearance** and tap the **MyTonWallet Air** toggle.
+- **Deep link**: Open `mtw://air` on your device. This works from any app — browser, notes, messaging, etc.
+
+### Switch from Air to Classic
+
+- **Settings button**: In Air, go to **Settings → Appearance** and tap **Switch to Legacy Version**.
+- **Deep link**: Open `mtw://classic` on your device.
+
+### Data Migration
+
+When switching between Air and Classic, your data (accounts, settings, saved addresses, assets, theme, language) is automatically migrated. You do not need to re-import your wallet or re-enter your recovery phrase.
+
 ## Important Notes
 
 - Air is a platform experience, not a separate wallet type

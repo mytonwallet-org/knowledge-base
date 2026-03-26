@@ -61,9 +61,22 @@ Mobile Ledger support includes Bluetooth and USB, depending on the platform. Mak
 - Bluetooth or USB access is available
 - The devices are ready to pair
 
+## Switching Between Air and Classic
+
+The mobile app includes two interfaces: **Air** (native) and **Classic** (web-based). You can switch freely — your wallets and data carry over automatically.
+
+- **Classic → Air**: Go to **Settings → Appearance** and tap the **MyTonWallet Air** toggle, or open the deep link `mtw://air`.
+- **Air → Classic**: Go to **Settings → Appearance** and tap **Switch to Legacy Version**, or open the deep link `mtw://classic`.
+
+See `platforms/air.md` for more details.
+
 ## Deep Links
 
 The app handles `ton://`, `tc://`, `mtw://` URL schemes. Tapping a compatible link anywhere on your device opens it in MyTonWallet.
+
+Notable `mtw://` deep links:
+- `mtw://air` — Switch to Air interface
+- `mtw://classic` — Switch to Classic interface
 
 ## Storage
 
