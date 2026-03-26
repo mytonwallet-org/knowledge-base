@@ -29,7 +29,6 @@ Blockchain transactions are **irreversible**. If you sent to the wrong address:
 
 ## Transaction Not Showing in Activity
 
-- Refresh the Home tab (pull down to refresh on mobile).
 - The transaction may not have been broadcast. Check if your balance changed.
 - If you made the transaction on another device/wallet, it may take a moment to sync.
 

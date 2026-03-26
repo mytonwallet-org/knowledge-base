@@ -51,6 +51,6 @@ If you forget the password, you usually need to re-import the wallet with the re
 
 - Use the manual lock option if you want to lock the app immediately without waiting for auto-lock.
 - Enable biometric unlock for convenience without compromising security.
-- Set auto-lock to 5 minutes or less, especially on shared or mobile devices.
+- Set auto-lock to 10 minutes or less, especially on shared or mobile devices.
 - Use a strong, unique password that you don't use elsewhere.
 - Back up your recovery phrase before doing anything else (Settings → Security → Back Up Secret Words).
