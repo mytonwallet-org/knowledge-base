@@ -2,11 +2,7 @@
 
 ## Hiding Sensitive Data
 
-When you're in a public place or sharing your screen, you can hide balances and addresses:
-
-- Toggle **Hide Sensitive Data** in Settings → Security
-- Use one-tap balance hiding
-- Hidden mode obscures fiat amounts and related values in Activity
+When you're in a public place or sharing your screen, you can hide your balance from the Home screen.
 
 ## Clipboard Safety
 
