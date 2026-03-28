@@ -1,6 +1,6 @@
 # Privacy Features
 
-## Hiding Sensitive Data
+## Balance Hiding
 
 When you're in a public place or sharing your screen, you can hide your balance from the Home screen.
 
