@@ -17,7 +17,7 @@ The Activity feed includes:
 
 ## Balance And Amount Hiding
 
-Activity does not have a separate hiding control. For privacy, you can hide your balance from the Home screen when sharing your screen or checking the wallet in public.
+You can hide balances and amounts for privacy. This is useful when sharing your screen or checking the wallet in public.
 
 ## Transfer Links
 
