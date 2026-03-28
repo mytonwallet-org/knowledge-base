@@ -15,9 +15,9 @@ The Activity feed includes:
 - Faster display of incoming transfers, especially on TON
 - Names for saved contacts and some known addresses in history
 
-## Balance And Amount Hiding
+## Balance Hiding
 
-Activity does not have a separate hiding control. If you hide your balance from the Home screen, related values may also be less visible while you use the wallet.
+Activity does not have a separate balance hiding control. Balance hiding is managed from the Home screen.
 
 ## Transfer Links
 
