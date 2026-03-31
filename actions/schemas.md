@@ -16,24 +16,48 @@ Always confirm details with the user before returning a transaction deeplink.
 
 ## Available Deeplinks
 
-### Transfer (Send)
+### Send (Multi-Chain)
+
+**Preferred for all send actions.** Supports any chain. But use Transfer deeplink for ton chain
+
+```
+mtw://send/<chain>:<address>?amount=<smallest_units>&text=<comment>&token=<slug>
+```
+
+Parameters:
+- `<chain>` — blockchain identifier: `ton`, `tron`, or `solana` (required in URL path)
+- `<address>` — recipient address or DNS domain (required in URL path)
+- `amount` — amount in **smallest units** (nanotons for TON, sun for TRON, lamports for Solana)
+- `text` — comment/memo (optional)
+- `token` — token slug, to send a specific token instead of the chain's native coin (optional)
+- `bin` — binary payload in base64 (mutually exclusive with `text`)
+- `init` / `stateInit` — state init for TON (optional)
+- `exp` — expiry timestamp in seconds (optional)
+
+If `token` is omitted, the chain's native token is used (TON, TRX, or SOL).
+
+Examples:
+- `[Send 10 TON to alice.ton](mtw://send/ton:alice.ton?amount=10000000000)`
+- `[Send TON](mtw://send/ton:alice.ton)` — opens with address pre-filled, user enters amount
+- `[Send USDT on TON](mtw://send/ton:EQ...?token=ton-usdt&amount=1000000)` — send a token on TON
+- `[Send USDT on TRON](mtw://send/tron:T...?token=tron-usdt&amount=1000000)` — send USDT on TRON
+- `[Send SOL](mtw://send/solana:...?amount=1000000000)` — send SOL
+
+### Transfer (TON only, legacy)
+
+Still supported, but prefer `send` for new actions. Only works for TON chain.
 
 ```
 mtw://transfer/<address>?amount=<nanotons>&text=<comment>
 ```
 
 Parameters:
-- `<address>` — recipient address or DNS domain (required in URL path)
+- `<address>` — TON recipient address or DNS domain (required in URL path)
 - `amount` — amount in **nanotons** (1 TON = 1,000,000,000 nanotons)
 - `text` — comment/memo (optional)
 - `jetton` — jetton minter address, to send a specific token instead of TON (optional)
 - `nft` — NFT address, to send an NFT (optional)
 - `bin` — binary payload in base64 (mutually exclusive with `text`)
-
-Examples:
-- `[Send 10 TON to alice.ton](mtw://transfer/alice.ton?amount=10000000000)`
-- `[Send TON](mtw://transfer/alice.ton)` — opens with address pre-filled, user enters amount
-- `[Send USDT](mtw://transfer/EQ...?jetton=EQ...&amount=1000000)` — send a jetton
 
 ### Swap
 
@@ -127,7 +151,7 @@ Opens an NFT detail view.
 
 ## Common Token Slugs
 
-Use these in `in`/`out` parameters for swap deeplinks:
+Use these in `token` parameter for send deeplinks and `in`/`out` for swap deeplinks:
 
 | Slug | Token |
 |------|-------|
@@ -147,5 +171,5 @@ Use these in `in`/`out` parameters for swap deeplinks:
 3. **One deeplink per message.** Don't return multiple action deeplinks in a single response.
 4. **Validate before returning.** If an address looks wrong or a token isn't supported, tell the user instead of returning a broken deeplink.
 5. **Deeplinks open screens, not execute transactions.** The app shows the pre-filled screen — the user still reviews and confirms manually. No deeplink sends funds directly.
-6. **Use nanotons for TON amounts.** 1 TON = 1,000,000,000 nanotons. For swap amounts, use regular numbers.
+6. **Use smallest units for amounts in send deeplinks.** 1 TON = 1,000,000,000 nanotons; 1 TRX = 1,000,000 sun; 1 SOL = 1,000,000,000 lamports. For swap amounts, use regular numbers.
 7. **Use clear button labels.** The label should describe the action: "Send 10 TON to alice.ton", "Open Swap", "View Staking".
