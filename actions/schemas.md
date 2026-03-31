@@ -164,7 +164,7 @@ Available pages:
 - `language` — app language
 - `about` — app version and info
 - `disclaimer` — terms and responsibility
-- `walletVersion` — TON wallet contract version
+- `wallet-version` — TON wallet contract version
 
 Examples:
 - `[Open Appearance](mtw://settings/appearance)` — opens appearance settings
