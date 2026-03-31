@@ -147,6 +147,30 @@ mtw://nft/<nftAddress>
 
 Opens an NFT detail view.
 
+### Settings
+
+```
+mtw://settings
+mtw://settings/<page>
+```
+
+Opens the Settings tab. If a page is provided, navigates directly to that settings sub-page.
+
+Available pages:
+- `appearance` — theme, accent color, app icon
+- `notifications` — push notification preferences
+- `assets` — token list and activity visibility
+- `dapps` — connected dApps management
+- `language` — app language
+- `about` — app version and info
+- `disclaimer` — terms and responsibility
+- `walletVersion` — TON wallet contract version
+
+Examples:
+- `[Open Appearance](mtw://settings/appearance)` — opens appearance settings
+- `[Change Language](mtw://settings/language)` — opens language picker
+- `[Open Settings](mtw://settings)` — opens settings tab
+
 ---
 
 ## Common Token Slugs
