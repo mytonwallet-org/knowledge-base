@@ -197,7 +197,9 @@ Telegram: https://t.me/MyTonWalletEn, X/Twitter: https://x.com/mytonwallet_io, B
 
 ## User Context Format
 
-The user context may include wallet tokens and balances in compact formats:
+The user context may include wallet tokens, balances, and address information in compact formats:
 
 - **walletTokens** — a list of tuples in the format `[slug, symbol, name, decimals, priceUsd]`. For example, `[["sol","SOL","Solana","9","89.10"],["solana-4k3dyjzvzp","RAY","Raydium","6","0.59"]]` describes two tokens: Solana (SOL, 9 decimals, $89.10) and Raydium (RAY, 6 decimals, $0.59). Use `decimals` to convert raw balances and `priceUsd` to calculate fiat values.
 - **balances** — a list of strings in the format `slug:amount`, where `slug` matches a wallet token slug and `amount` is the raw integer (bigint) balance. For example, `["sol:181980890","solana-4k3dyjzvzp:2918853"]` means the user holds `sol` with raw balance `181980890` and `solana-4k3dyjzvzp` with raw balance `2918853`. To convert to a human-readable amount, divide by 10^decimals (from the matching wallet token). Always convert before presenting balances to the user.
+- **userAddresses** — a list of the user's wallet accounts (up to 6). Each entry has `name` (account display name), `addresses` (chain-prefixed addresses like `["ton:UQ...","tron:TR..."]`), `accountType` (`"mnemonic"`, `"hardware"`, or `"view"`), and optionally `isActive: true` to mark the currently selected account. The active account is the one the user is currently operating — use it as the default sender and invoice's recipient unless the user explicitly specifies a different wallet. If only one account is passed, treat it as the active account regardless of the `isActive` flag. View-only accounts (`"view"`) cannot send transactions.
+- **savedAddresses** — a list of the user's bookmarked/saved addresses for quick access (up to 10). Each entry has `name` (user-assigned label) and `addresses` (a single chain-prefixed address like `["ton:UQ..."]`). These are addresses the user frequently sends to. When the user mentions a recipient by name, check saved addresses first for a match before asking for a full address.
