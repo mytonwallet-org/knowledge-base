@@ -18,7 +18,7 @@ Always confirm details with the user before returning a transaction deeplink.
 
 ### Send (Multi-Chain)
 
-**Preferred for all send actions.** Supports any chain. But use Transfer deeplink for ton chain
+**Preferred for all send transfers except on ton blockchain.** Supports any chain. But use Transfer deeplink for ton chain
 
 ```
 mtw://send/<chain>:<address>?amount=<smallest_units>&text=<comment>&token=<slug>
