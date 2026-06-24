@@ -33,7 +33,7 @@ Withdrawals follow Ethena's standard withdrawal period: unstaked funds are retur
 
 Ethena staking is fully decentralized, operated by Ethena's official audited smart contracts.
 
-Ethena and USDe are independent of MyTonWallet. Treat USDe staking as a third-party product surfaced inside the wallet, not as a native MyTonWallet guarantee.
+Ethena and USDe are independent of MyWallet. Treat USDe staking as a third-party product surfaced inside the wallet, not as a native MyWallet guarantee.
 
 ### Unstaking USDe
 
@@ -45,7 +45,7 @@ Unstaked funds enter a **7-day withdrawal period**. During this time, the amount
 
 ## MY Token Staking
 
-**MY** (MyTonWallet Coin) is the wallet's own token on the TON blockchain. If you hold MY tokens, you can stake them to earn rewards.
+**MY** (MyWallet Coin) is the wallet's own token on the TON blockchain. If you hold MY tokens, you can stake them to earn rewards.
 
 MY staking works through a dedicated staking pool. You deposit your MY tokens, and they earn rewards over time. The staking and unstaking process is similar to TON staking — stake from the Staking section, claim rewards, and unstake when ready (subject to a cooldown period with commission rates that vary by unstaking timing).
 

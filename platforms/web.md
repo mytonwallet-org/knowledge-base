@@ -1,6 +1,6 @@
 # Web App
 
-The web version runs in any modern browser at the official MyTonWallet URL.
+The web version runs in any modern browser at the official MyWallet URL.
 
 ## Features
 
@@ -16,7 +16,7 @@ Connects via **WebHID**. Requires a Chromium-based browser (Chrome, Edge, Brave)
 
 ## dApps
 
-dApps open in a new browser tab. They connect to your wallet if you have the MyTonWallet browser extension installed, or via QR code / link.
+dApps open in a new browser tab. They connect to your wallet if you have the MyWallet browser extension installed, or via QR code / link.
 
 There is no in-app browser on web — dApps run in their own tabs.
 

@@ -11,12 +11,12 @@ Install from your browser's extension store:
 
 ## Using the Extension
 
-Click the MyTonWallet icon in your browser toolbar to open the wallet popup. All core features are available: send, receive, swap, stake, view NFTs, check activity.
+Click the MyWallet icon in your browser toolbar to open the wallet popup. All core features are available: send, receive, swap, stake, view NFTs, check activity.
 
 ## dApp Connection
 
 The extension **injects** a wallet provider into web pages. When you visit a TON dApp:
-1. The dApp detects MyTonWallet automatically.
+1. The dApp detects MyWallet automatically.
 2. It requests to connect — you see an approval popup.
 3. Once connected, the dApp can request transactions which you approve individually.
 

@@ -8,7 +8,7 @@ If you forgot your password but have your **recovery phrase**:
 3. Set a new password.
 
 If you forgot your password and **do not have your recovery phrase**:
-- There is no way to recover access. MyTonWallet cannot reset your password.
+- There is no way to recover access. MyWallet cannot reset your password.
 - Your funds remain on the blockchain but are inaccessible without the phrase.
 
 ## Forgot PIN

@@ -21,7 +21,7 @@ Use topical files for how features work. Use this file for **when** they were in
 - Introduced a more visible swap aggregator with route comparison and a `Best Rate` badge
 - Added manual lock
 - Added push notifications for up to `3` wallets
-- Added MyTonWallet Cards personalization
+- Added MyWallet Cards personalization
 
 ### `v3.3`
 

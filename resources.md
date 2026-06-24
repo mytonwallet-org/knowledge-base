@@ -1,28 +1,28 @@
-# MyTonWallet Resources & Links
+# MyWallet Resources & Links
 
-Official channels, community, and support resources for MyTonWallet.
+Official channels, community, and support resources for MyWallet.
 
 ---
 
 ## Community & News
 
-- **Telegram (English)**: https://t.me/MyTonWalletEn — official news and announcements
-- **Telegram (Russian)**: https://t.me/MyTonWalletRu — official news in Russian
+- **Telegram (English)**: https://t.me/MyWalletEng — official news and announcements
+- **Telegram (Russian)**: https://t.me/MyWalletRus — official news in Russian
 - **MyTonWallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
 - **X (Twitter)**: https://x.com/mytonwallet_io — updates and announcements
 
 ## Support
 
-- **Help Center**: https://help.mytonwallet.io/ — searchable knowledge base with guides and FAQs
-- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the MyTonWallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
+- **Help Center**: https://help.mywallet.io/ — searchable knowledge base with guides and FAQs
+- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the MyWallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
 
 ## Blog
 
-- **Blog**: https://mytonwallet.io/blog — product updates, feature announcements, and tutorials
+- **Blog**: https://mywallet.io/blog — product updates, feature announcements, and tutorials
 
 ## Download Links
 
-- **All platforms**: https://get.mytonwallet.io
+- **All platforms**: https://get.mywallet.io
 - **Web App**: https://mytonwallet.app
 - **Telegram Mini App**: https://t.me/myapp
 - **Chrome Extension**: https://chrome.google.com/webstore/detail/mytonwallet/fldfpgipfncgndfolcbkdeeknbbbnhcc

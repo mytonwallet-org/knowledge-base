@@ -11,7 +11,7 @@ An NFT (Non-Fungible Token) is a unique digital item recorded on the blockchain.
 - **Telegram Gifts** — gifts sent in Telegram
 - **Domain names** — TON DNS domains (like `yourname.ton`)
 - **Membership passes** — access to communities or services
-- **MTW Cards** — branded wallet collectibles
+- **MyWallet Cards** — branded wallet collectibles
 
 ## Collections
 
@@ -29,6 +29,6 @@ When you own an NFT, the blockchain records your address as the owner. You can:
 
 Value depends entirely on demand. Some NFTs are highly sought after and trade for large amounts. Others (like spam NFTs airdropped to your wallet) are worthless. The app lets you hide unwanted NFTs.
 
-## NFTs in MyTonWallet
+## NFTs in MyWallet
 
 Your NFTs appear in the Assets section of the Home tab, organized by collection. You can view attributes, send them, or manage visibility. TON DNS domains and Telegram Gifts are handled as special NFT types with additional functionality (domain linking, renewal, etc.).

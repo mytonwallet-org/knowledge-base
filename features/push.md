@@ -64,7 +64,7 @@ You can send collectibles in private chats, groups, and channels. If a collectib
 
 ## Wallet Compatibility
 
-`@push` is designed to work with TON-compatible wallets through TON Connect, not just MyTonWallet.
+`@push` is designed to work with TON-compatible wallets through TON Connect, not just MyWallet.
 
 ## Important Notes
 

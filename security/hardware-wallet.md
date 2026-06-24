@@ -17,7 +17,7 @@ A Ledger is a physical device that stores your private keys offline. Transaction
 ## Setting Up Ledger
 
 1. Install the **TON app** on your Ledger device (via Ledger Live).
-2. Open MyTonWallet and go to **Settings → Hardware Wallet** (or choose Ledger during wallet import).
+2. Open MyWallet and go to **Settings → Hardware Wallet** (or choose Ledger during wallet import).
 3. Connect:
    - **Mobile**: Use Bluetooth or USB, depending on platform support.
    - **Desktop/Extension**: Plug in your Ledger via USB.
@@ -37,7 +37,7 @@ If the details on your Ledger screen don't match what the app shows, **reject** 
 
 ## Limitations
 
-- Ledger wallets are **TON-only** in MyTonWallet (no TRON or Solana via Ledger at this time).
+- Ledger wallets are **TON-only** in MyWallet (no TRON or Solana via Ledger at this time).
 - You cannot export the private key from a Ledger — that's by design.
 - The Ledger must be connected and unlocked with the TON app open whenever you need to sign.
 

@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Open MyTonWallet and tap **Create Wallet**.
+1. Open MyWallet and tap **Create Wallet**.
 2. The app generates a **24-word recovery phrase** (also called a "seed phrase" or "secret words").
 3. Write down all 24 words **on paper**, in order. Do not screenshot or copy to clipboard.
 4. The app asks you to verify a few words to confirm you saved them correctly.
@@ -14,8 +14,8 @@ Your wallet is now ready. You'll have addresses for TON, TRON, and Solana automa
 ## About the Recovery Phrase
 
 - It is the **master key** to your wallet. Anyone with these words can access all your funds across all chains.
-- MyTonWallet is **non-custodial** — we do not store your phrase. If you lose it, nobody can help you recover it.
-- Never enter your recovery phrase on any website or share it with anyone. MyTonWallet will never ask for it except during wallet import.
+- MyWallet is **non-custodial** — we do not store your phrase. If you lose it, nobody can help you recover it.
+- Never enter your recovery phrase on any website or share it with anyone. MyWallet will never ask for it except during wallet import.
 - Store it in a safe, offline location. Consider multiple copies in different physical locations.
 
 ## What Happens Technically
