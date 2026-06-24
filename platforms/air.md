@@ -1,8 +1,8 @@
-# MyTonWallet Air
+# MyWallet Air
 
 ## What It Is
 
-MyTonWallet Air is the native mobile interface for iOS and Android.
+MyWallet Air is the native mobile interface for iOS and Android.
 
 ## Air Highlights
 
@@ -42,7 +42,7 @@ Air and Classic are two interfaces within the same mobile app. Your wallets, key
 
 ### Switch from Classic to Air
 
-- **Settings toggle**: In the Classic interface, go to **Settings → Appearance** and tap the **MyTonWallet Air** toggle.
+- **Settings toggle**: In the Classic interface, go to **Settings → Appearance** and tap the **MyWallet Air** toggle.
 - **Deep link**: Open `mtw://air` on your device. This works from any app — browser, notes, messaging, etc.
 
 ### Switch from Air to Classic

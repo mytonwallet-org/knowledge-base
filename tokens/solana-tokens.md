@@ -1,6 +1,6 @@
 # Solana Tokens
 
-## Solana Support In MyTonWallet
+## Solana Support In MyWallet
 
 Solana is supported inside the wallet's multichain experience. Existing multichain wallets may show Solana automatically after updating.
 

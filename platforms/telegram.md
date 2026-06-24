@@ -1,10 +1,10 @@
 # Telegram Mini App
 
-MyTonWallet is available as a Telegram Mini App — you can open it directly inside Telegram without installing a separate app.
+MyWallet is available as a Telegram Mini App — you can open it directly inside Telegram without installing a separate app.
 
 ## How to Open
 
-Search for the MyTonWallet bot in Telegram (or use a direct link) and launch the Mini App from the bot's menu.
+Search for the MyWallet bot in Telegram (or use a direct link) and launch the Mini App from the bot's menu.
 
 ## Features
 
@@ -40,7 +40,7 @@ The Telegram Mini App is convenient for quick operations when you're already in 
 
 ## Help Center
 
-The app also includes a Help Center entry point from Settings, alongside the public help site at `https://help.mytonwallet.io/`.
+The app also includes a Help Center entry point from Settings, alongside the public help site at `https://help.mywallet.io/`.
 
 ## Security Notes
 

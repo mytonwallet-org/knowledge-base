@@ -13,7 +13,7 @@ A DEX is a smart contract on the blockchain that lets people trade tokens direct
 **Cons**: Only works within the same blockchain, prices depend on available liquidity
 
 ### CEX (Centralized Exchange)
-A CEX is a company that holds funds and matches buyers with sellers (like Binance or Coinbase). MyTonWallet uses Changelly for cross-chain swaps — when you swap between different blockchains (e.g., TON → TRX).
+A CEX is a company that holds funds and matches buyers with sellers (like Binance or Coinbase). MyWallet uses Changelly for cross-chain swaps — when you swap between different blockchains (e.g., TON → TRX).
 
 **Pros**: Can swap between any supported chains
 **Cons**: May require minimum amounts, takes longer, involves a third party

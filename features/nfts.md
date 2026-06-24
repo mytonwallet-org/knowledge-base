@@ -9,7 +9,7 @@ Supported collectible types include:
 - Regular TON and Solana NFTs
 - **Telegram Gifts**
 - **TON DNS domains**
-- **MyTonWallet Cards**
+- **MyWallet Cards**
 
 The wallet includes pinned collection tabs and improved separation of Telegram Gifts from regular NFTs.
 
@@ -46,9 +46,9 @@ Telegram Gifts are handled as on-chain collectibles in the wallet. Features incl
 - Pinned Telegram Gifts
 - Sending gifts through `@push`
 
-## MyTonWallet Cards
+## MyWallet Cards
 
-MyTonWallet Cards are special collectibles used for wallet personalization. They can unlock:
+MyWallet Cards are special collectibles used for wallet personalization. They can unlock:
 
 - Custom wallet-card backgrounds
 - Color palettes

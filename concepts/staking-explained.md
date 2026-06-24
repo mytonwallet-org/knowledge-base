@@ -11,7 +11,7 @@ Staking means locking up your crypto to help secure a blockchain network. In ret
 3. The network rewards the pool for its work.
 4. You receive a share of the rewards proportional to your stake.
 
-## Types of Staking in MyTonWallet
+## Types of Staking in MyWallet
 
 ### Liquid Staking
 When you stake, you receive a **liquid token** (like tsTON or stTON) that represents your staked position. This token:

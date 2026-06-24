@@ -8,24 +8,24 @@
 - If persistent, uninstall and reinstall (you'll need your recovery phrase to re-import).
 
 ### Face ID Not Working
-- Check that Face ID is enabled for MyTonWallet in device Settings → Face ID & Passcode.
+- Check that Face ID is enabled for MyWallet in device Settings → Face ID & Passcode.
 - Re-enable biometric unlock in the app: Settings → Security → Biometric Unlock.
 
 ### Push Notifications Not Arriving
-- Check iOS Settings → Notifications → MyTonWallet is enabled.
+- Check iOS Settings → Notifications → MyWallet is enabled.
 - Check that Focus/Do Not Disturb isn't blocking notifications.
 
 ## Android
 
 ### App Not Receiving Notifications in Background
-- Exclude MyTonWallet from **battery optimization** (Settings → Apps → MyTonWallet → Battery → Unrestricted).
+- Exclude MyWallet from **battery optimization** (Settings → Apps → MyWallet → Battery → Unrestricted).
 - Different manufacturers have different battery management — search for your device brand + "allow background apps."
 
 ### WebView Issues
 - The app uses an embedded WebView for its SDK layer. If something behaves unexpectedly, make sure **Android System WebView** is updated from the Play Store.
 
 ### Camera Not Working for QR Scan
-- Check that camera permission is granted: device Settings → Apps → MyTonWallet → Permissions.
+- Check that camera permission is granted: device Settings → Apps → MyWallet → Permissions.
 
 ## Web
 
