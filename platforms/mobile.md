@@ -1,6 +1,6 @@
 # Mobile (iOS & Android)
 
-The native mobile apps are the primary platform for MyWallet, used by the majority of users.
+The native mobile apps are the primary platform for My Wallet, used by the majority of users.
 
 ## Navigation
 
@@ -46,7 +46,7 @@ Available when entering addresses (Send, dApp URLs, etc.). Tap the QR icon to op
 
 ## Widgets
 
-MyWallet supports several widget types on mobile:
+My Wallet supports several widget types on mobile:
 
 - Home-screen widgets
 - Token-price widgets
@@ -65,14 +65,14 @@ Mobile Ledger support includes Bluetooth and USB, depending on the platform. Mak
 
 The mobile app includes two interfaces: **Air** (native) and **Classic** (web-based). You can switch freely — your wallets and data carry over automatically.
 
-- **Classic → Air**: Go to **Settings → Appearance** and tap the **MyWallet Air** toggle, or open the deep link `mtw://air`.
+- **Classic → Air**: Go to **Settings → Appearance** and tap the **My Wallet Air** toggle, or open the deep link `mtw://air`.
 - **Air → Classic**: Go to **Settings → Appearance** and tap **Switch to Legacy Version**, or open the deep link `mtw://classic`.
 
 See `platforms/air.md` for more details.
 
 ## Deep Links
 
-The app handles `ton://`, `tc://`, `mtw://` URL schemes. Tapping a compatible link anywhere on your device opens it in MyWallet.
+The app handles `ton://`, `tc://`, `mtw://` URL schemes. Tapping a compatible link anywhere on your device opens it in My Wallet.
 
 Notable `mtw://` deep links:
 - `mtw://air` — Switch to Air interface
@@ -85,4 +85,4 @@ Notable `mtw://` deep links:
 
 ## iPad
 
-MyWallet also includes a dedicated iPad-optimized layout with larger-screen navigation and settings improvements.
+My Wallet also includes a dedicated iPad-optimized layout with larger-screen navigation and settings improvements.

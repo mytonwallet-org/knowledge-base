@@ -13,7 +13,7 @@ Some buy flows route between **MoonPay** and **Avanchange**, depending on the as
 
 ## Selling Crypto
 
-MyWallet also supports a native off-ramp flow for selling supported crypto to a bank card in supported countries.
+My Wallet also supports a native off-ramp flow for selling supported crypto to a bank card in supported countries.
 
 Typical flow:
 
@@ -41,6 +41,6 @@ If **Buy** or **Sell** is missing, the feature may not be available for your cou
 
 ## Important Notes
 
-- These services are provided by third parties, not by MyWallet itself
+- These services are provided by third parties, not by My Wallet itself
 - Provider options and supported countries can change
 - Always review the final rate, payout amount, and fees before confirming

@@ -8,7 +8,7 @@ On the TON blockchain, your wallet is a smart contract. Different wallet version
 
 - **v3R2** — widely supported, compatible with most services
 - **v4R2** — adds plugin support
-- **W5** — latest version, supports **gasless transactions** (paying fees in tokens like USDT instead of TON)
+- **W5** — latest version, supports **gasless transactions** (paying fees in tokens like USDT instead of Gram)
 
 ## Checking Your Version
 

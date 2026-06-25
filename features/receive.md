@@ -28,11 +28,11 @@ When the sender opens the link, their wallet can pre-fill the payment details.
 
 ## Token-Specific Deposit Links
 
-Deposit links can also support a chosen TON token, not only the native address. This is useful when you want to request a specific asset instead of asking the sender to choose it manually.
+Deposit links can also support a chosen token on TON, not only the native address. This is useful when you want to request a specific asset instead of asking the sender to choose it manually.
 
 ## Wallet Sharing
 
-MyWallet also uses cleaner wallet-sharing links with `my.tt`, especially for view-only or explorer-style sharing. See `features/wallet-explorer.md`.
+My Wallet also uses cleaner wallet-sharing links with `my.tt`, especially for view-only or explorer-style sharing. See `features/wallet-explorer.md`.
 
 ## Important Notes
 

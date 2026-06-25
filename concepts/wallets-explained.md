@@ -22,8 +22,8 @@ From this single phrase, the wallet derives private keys for all supported block
 ### Custodial Wallet
 A company holds your private keys for you (like a bank holding your money). Convenient, but you depend on them — they could get hacked, freeze your account, or go out of business.
 
-### Non-Custodial Wallet (MyWallet)
-**You** hold your private keys. Nobody else — not even MyWallet — can access your funds. You have full control, but you're also fully responsible for keeping your recovery phrase safe.
+### Non-Custodial Wallet (My Wallet)
+**You** hold your private keys. Nobody else — not even My Wallet — can access your funds. You have full control, but you're also fully responsible for keeping your recovery phrase safe.
 
 ## What Happens When You "Create a Wallet"?
 

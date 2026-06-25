@@ -14,20 +14,20 @@ Use topical files for how features work. Use this file for **when** they were in
 - Added auto-lock and password change
 - Added Ledger support on mobile
 - Added anti-poisoning scam labels
-- Highlighted easier gasless transfers when TON balance is below `0.3 TON`
+- Highlighted easier gasless transfers when Gram balance is below `0.3 Gram`
 
 ### `v3.2`
 
 - Introduced a more visible swap aggregator with route comparison and a `Best Rate` badge
 - Added manual lock
 - Added push notifications for up to `3` wallets
-- Added MyWallet Cards personalization
+- Added My Wallet Cards personalization
 
 ### `v3.3`
 
 - Improved fee transparency with detailed fee and change breakdowns
 - Expanded Explore into a dedicated tab with categories
-- Introduced MyTonWallet Pay
+- Introduced My Wallet Pay
 
 ### `v3.4`
 
@@ -70,7 +70,7 @@ Use topical files for how features work. Use this file for **when** they were in
 
 ### `v4.1`
 
-- Introduced MyTonWallet Air
+- Introduced My Wallet Air
 - Added Air-specific collectibles tools, chart controls, and browser minimization
 - Added new scam warnings for suspicious multisig imports and `.ton` destinations
 

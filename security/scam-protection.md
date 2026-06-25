@@ -3,7 +3,7 @@
 ## Built-In Protections
 
 ### Scam Address Detection
-MyWallet maintains a database of known scam addresses. When you enter a recipient address that matches a flagged address, the app shows a **warning**. You can still proceed, but you should carefully verify the address.
+My Wallet maintains a database of known scam addresses. When you enter a recipient address that matches a flagged address, the app shows a **warning**. You can still proceed, but you should carefully verify the address.
 
 ### Domain Similarity Warnings
 When interacting with TON DNS domains, the app warns you about **lookalike domains** — names that are visually similar to well-known domains but are controlled by scammers (e.g., using letter substitution).
@@ -13,11 +13,11 @@ The app can warn you about potentially dangerous actions. You can toggle this in
 
 ### Anti-Poisoning Labels
 
-MyWallet includes built-in **anti-poisoning** protection that marks lookalike or scam-history addresses with a visible **Scam** label in transaction history.
+My Wallet includes built-in **anti-poisoning** protection that marks lookalike or scam-history addresses with a visible **Scam** label in transaction history.
 
 ### Import And Send Warnings
 
-MyWallet shows warnings for:
+My Wallet shows warnings for:
 
 - Suspicious multisig wallet imports
 - Suspicious `.ton` destinations before sending
@@ -28,7 +28,7 @@ MyWallet shows warnings for:
 You receive unexpected tokens or NFTs with instructions to visit a website. **Never** visit links from unexpected airdrops — they typically try to steal your recovery phrase.
 
 ### Phishing Sites
-Websites that look like MyWallet or popular dApps, asking for your recovery phrase. **MyWallet will never ask for your recovery phrase** except during wallet import, and only in the app itself.
+Websites that look like My Wallet or popular dApps, asking for your recovery phrase. **My Wallet will never ask for your recovery phrase** except during wallet import, and only in the app itself.
 
 ### Address Poisoning
 Scammers send tiny transactions from addresses that look similar to your real contacts, hoping you'll copy the wrong address from your history. Always verify the full address, not just the first and last characters.

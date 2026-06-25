@@ -17,10 +17,10 @@
 ### On Browser Extension
 - Make sure the extension is enabled and unlocked.
 - Refresh the dApp page.
-- Check that the dApp is looking for MyWallet (some dApps only support specific wallets).
+- Check that the dApp is looking for My Wallet (some dApps only support specific wallets).
 
 ### On Desktop / Web
-- If connecting via QR code, make sure to scan it with MyWallet (not your phone camera).
+- If connecting via QR code, make sure to scan it with My Wallet (not your phone camera).
 - Check that the dApp and wallet are on the same network (mainnet vs testnet).
 
 ## dApp Shows "Disconnected"
@@ -40,4 +40,4 @@ dApp connections can expire. To reconnect:
 
 - Check that notifications are enabled both in the app (Settings → Notifications) and in your device's system settings.
 - Push notifications are limited to **3 accounts**. If you have more, only the selected accounts receive notifications.
-- On Android, battery optimization can block background notifications — exclude MyWallet from battery optimization.
+- On Android, battery optimization can block background notifications — exclude My Wallet from battery optimization.

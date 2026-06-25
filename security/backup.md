@@ -2,7 +2,7 @@
 
 ## Why Back Up?
 
-Your recovery phrase is the **only way** to restore your wallet if you lose your device, uninstall the app, or forget your password. Without it, your funds are permanently inaccessible. MyWallet is non-custodial — we cannot recover your wallet for you.
+Your recovery phrase is the **only way** to restore your wallet if you lose your device, uninstall the app, or forget your password. Without it, your funds are permanently inaccessible. My Wallet is non-custodial — we cannot recover your wallet for you.
 
 ## Viewing Your Recovery Phrase
 
@@ -30,7 +30,7 @@ The private key is chain-specific and gives access only to that chain's funds. T
 - Store in a secure physical location (safe, lockbox).
 - Consider keeping copies in multiple locations in case of fire, flood, etc.
 - Never share your recovery phrase or private key with anyone.
-- Never enter it on any website or form. MyWallet will never ask for it except during wallet import.
+- Never enter it on any website or form. My Wallet will never ask for it except during wallet import.
 
 ## What Happens If You Lose Your Backup?
 

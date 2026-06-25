@@ -8,7 +8,7 @@ The most common example is a `.ton` domain such as `yourname.ton`.
 
 ## Supported Name Types
 
-MyWallet also supports additional linked names, including:
+My Wallet also supports additional linked names, including:
 
 - `.t.me`
 - `.vip`

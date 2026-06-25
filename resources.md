@@ -1,6 +1,6 @@
-# MyWallet Resources & Links
+# My Wallet Resources & Links
 
-Official channels, community, and support resources for MyWallet.
+Official channels, community, and support resources for My Wallet.
 
 ---
 
@@ -8,13 +8,13 @@ Official channels, community, and support resources for MyWallet.
 
 - **Telegram (English)**: https://t.me/MyWalletEng — official news and announcements
 - **Telegram (Russian)**: https://t.me/MyWalletRus — official news in Russian
-- **MyTonWallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
+- **My Wallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
 - **X (Twitter)**: https://x.com/mytonwallet_io — updates and announcements
 
 ## Support
 
 - **Help Center**: https://help.mywallet.io/ — searchable knowledge base with guides and FAQs
-- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the MyWallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
+- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the My Wallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
 
 ## Blog
 
