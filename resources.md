@@ -8,7 +8,7 @@ Official channels, community, and support resources for My Wallet.
 
 - **Telegram (English)**: https://t.me/MyWalletEng — official news and announcements
 - **Telegram (Russian)**: https://t.me/MyWalletRus — official news in Russian
-- **My Wallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
+- **MyTonWallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
 - **X (Twitter)**: https://x.com/mytonwallet_io — updates and announcements
 
 ## Support

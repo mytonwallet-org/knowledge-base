@@ -27,7 +27,7 @@ mtw://send/<chain>:<address>?amount=<smallest_units>&text=<comment>&token=<slug>
 Parameters:
 - `<chain>` — blockchain identifier: `ton`, `tron`, or `solana` (required in URL path)
 - `<address>` — recipient address or DNS domain (required in URL path)
-- `amount` — amount in **smallest units** (nanograms for Gram, sun for TRON, lamports for Solana)
+- `amount` — amount in **smallest units** (Gram uses 1,000,000,000 units per 1 Gram; TRON uses sun; Solana uses lamports)
 - `text` — comment/memo (optional)
 - `token` — token slug, to send a specific token instead of the chain's native coin (optional)
 - `bin` — binary payload in base64 (mutually exclusive with `text`)
@@ -48,12 +48,12 @@ Examples:
 Still supported, but prefer `send` for new actions. Only works for TON chain.
 
 ```
-mtw://transfer/<address>?amount=<nanograms>&text=<comment>
+mtw://transfer/<address>?amount=<smallest_units>&text=<comment>
 ```
 
 Parameters:
 - `<address>` — TON recipient address or DNS domain (required in URL path)
-- `amount` — amount in **nanograms** (1 Gram = 1,000,000,000 nanograms)
+- `amount` — amount in **smallest units** (1 Gram = 1,000,000,000 smallest units)
 - `text` — comment/memo (optional)
 - `jetton` — jetton minter address, to send a specific token instead of Gram (optional)
 - `nft` — NFT address, to send an NFT (optional)
@@ -195,5 +195,5 @@ Use these in `token` parameter for send deeplinks and `in`/`out` for swap deepli
 3. **One deeplink per message.** Don't return multiple action deeplinks in a single response.
 4. **Validate before returning.** If an address looks wrong or a token isn't supported, tell the user instead of returning a broken deeplink.
 5. **Deeplinks open screens, not execute transactions.** The app shows the pre-filled screen — the user still reviews and confirms manually. No deeplink sends funds directly.
-6. **Use smallest units for amounts in send deeplinks.** 1 Gram = 1,000,000,000 nanograms; 1 TRX = 1,000,000 sun; 1 SOL = 1,000,000,000 lamports. For swap amounts, use regular numbers.
+6. **Use smallest units for amounts in send deeplinks.** 1 Gram = 1,000,000,000 smallest units; 1 TRX = 1,000,000 sun; 1 SOL = 1,000,000,000 lamports. For swap amounts, use regular numbers.
 7. **Use clear button labels.** The label should describe the action: "Send 10 Gram to alice.ton", "Open Swap", "View Staking".
