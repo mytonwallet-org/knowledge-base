@@ -1,17 +1,17 @@
 # Telegram Mini App
 
-MyWallet is available as a Telegram Mini App — you can open it directly inside Telegram without installing a separate app.
+My Wallet is available as a Telegram Mini App — you can open it directly inside Telegram without installing a separate app.
 
 ## How to Open
 
-Search for the MyWallet bot in Telegram (or use a direct link) and launch the Mini App from the bot's menu.
+Search for the My Wallet bot in Telegram (or use a direct link) and launch the Mini App from the bot's menu.
 
 ## Features
 
 Most core features are available:
 - Send, receive, swap tokens
 - View balances and activity
-- Stake TON
+- Stake Gram
 - Browse and connect to dApps
 - Manage NFTs
 - Buy/sell crypto

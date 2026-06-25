@@ -4,7 +4,7 @@
 
 `@push` is a Telegram bot and Mini App for sending TON-based assets inside Telegram chats without giving custody of your funds to a service. It supports:
 
-- TON and Jettons
+- Gram and Jettons
 - TON NFTs
 - On-chain Telegram Gifts
 - Payment requests and invoices
@@ -25,7 +25,7 @@ For channel transfers, the channel must have **Sign Messages** enabled. Some Tel
 
 - Send crypto to a chat or a specific `@username`
 - Request a payment instead of sending immediately
-- Send TON NFTs and Telegram Gifts
+- Send NFTs on TON and Telegram Gifts
 - Enter amounts in fiat
 - Use simple arithmetic like splitting a bill
 - Add comments or emoji
@@ -34,7 +34,7 @@ For channel transfers, the channel must have **Sign Messages** enabled. Some Tel
 ## Basic Send Flow
 
 1. In Telegram, start a message with `@push`.
-2. Enter what you want to send, such as TON, a token amount, or a collectible command like `@push nft` or `@push gift`.
+2. Enter what you want to send, such as Gram, a token amount, or a collectible command like `@push nft` or `@push gift`.
 3. Connect a TON wallet when prompted.
 4. Choose the asset and, if needed, the recipient.
 5. Sign the transfer.
@@ -64,7 +64,7 @@ You can send collectibles in private chats, groups, and channels. If a collectib
 
 ## Wallet Compatibility
 
-`@push` is designed to work with TON-compatible wallets through TON Connect, not just MyWallet.
+`@push` is designed to work with TON-compatible wallets through TON Connect, not just My Wallet.
 
 ## Important Notes
 

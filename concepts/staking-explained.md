@@ -11,19 +11,19 @@ Staking means locking up your crypto to help secure a blockchain network. In ret
 3. The network rewards the pool for its work.
 4. You receive a share of the rewards proportional to your stake.
 
-## Types of Staking in MyWallet
+## Types of Staking in My Wallet
 
 ### Liquid Staking
 When you stake, you receive a **liquid token** (like tsTON or stTON) that represents your staked position. This token:
 - Increases in value over time as rewards accumulate
 - Can be transferred, traded, or used in DeFi
-- Can be redeemed for your original TON + rewards when you unstake
+- Can be redeemed for your original Gram + rewards when you unstake
 
 **Advantage**: Your funds aren't truly "locked" — you can sell the liquid token at any time.
 
 ## APY (Annual Percentage Yield)
 
-APY is the estimated yearly return on your staked tokens. For example, 5% APY means if you stake 100 TON, you'd earn approximately 5 TON over a year. APY fluctuates based on network conditions and is not guaranteed.
+APY is the estimated yearly return on your staked tokens. For example, 5% APY means if you stake 100 Gram, you'd earn approximately 5 Gram over a year. APY fluctuates based on network conditions and is not guaranteed.
 
 ## Risks
 
@@ -34,4 +34,4 @@ APY is the estimated yearly return on your staked tokens. For example, 5% APY me
 
 ## Is Staking Safe?
 
-Staking on TON is generally considered low-risk. The major staking pools are well-established and audited. However, as with everything in crypto, there are no absolute guarantees. Only stake what you can afford to have locked up.
+Gram staking on TON is generally considered low-risk. The major staking pools are well-established and audited. However, as with everything in crypto, there are no absolute guarantees. Only stake what you can afford to have locked up.

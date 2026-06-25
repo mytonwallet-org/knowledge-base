@@ -1,8 +1,8 @@
-# MyWallet Air
+# My Wallet Air
 
 ## What It Is
 
-MyWallet Air is the native mobile interface for iOS and Android.
+My Wallet Air is the native mobile interface for iOS and Android.
 
 ## Air Highlights
 
@@ -42,7 +42,7 @@ Air and Classic are two interfaces within the same mobile app. Your wallets, key
 
 ### Switch from Classic to Air
 
-- **Settings toggle**: In the Classic interface, go to **Settings → Appearance** and tap the **MyWallet Air** toggle.
+- **Settings toggle**: In the Classic interface, go to **Settings → Appearance** and tap the **My Wallet Air** toggle.
 - **Deep link**: Open `mtw://air` on your device. This works from any app — browser, notes, messaging, etc.
 
 ### Switch from Air to Classic

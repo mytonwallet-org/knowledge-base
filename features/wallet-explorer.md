@@ -2,7 +2,7 @@
 
 ## What It Is
 
-MyWallet can open wallets in a read-only mode so you can inspect balances, activity, NFTs, and other public blockchain data without controlling the private keys.
+My Wallet can open wallets in a read-only mode so you can inspect balances, activity, NFTs, and other public blockchain data without controlling the private keys.
 
 This feature is also described as **View Mode**, **Watch Account**, or the **wallet explorer**.
 
@@ -26,7 +26,7 @@ You can usually enter view-only mode in one of these ways:
 2. Paste an address into the explorer or search field
 3. Open a shared `my.tt` wallet, transfer, or NFT link
 
-If the app is installed, those links can open inside MyWallet. If it is not installed, compatible links may open in the web explorer instead.
+If the app is installed, those links can open inside My Wallet. If it is not installed, compatible links may open in the web explorer instead.
 
 ## Watchlist And Wallet Gallery
 
@@ -34,7 +34,7 @@ When viewing an external wallet, you can tap **+ View** or a similar action to k
 
 ## Shared Links
 
-MyWallet uses `my.tt` links for cleaner sharing. These links can open:
+My Wallet uses `my.tt` links for cleaner sharing. These links can open:
 
 - Wallet views
 - Individual transfers

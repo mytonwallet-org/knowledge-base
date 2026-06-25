@@ -31,7 +31,7 @@ dApps usually open in your normal browser and connect through the wallet integra
 - **TON Connect** for TON dApps
 - **WalletConnect** or similar flows for supported multichain dApps
 
-MyWallet supports smoother TON Connect behavior and multi-device dApp sessions.
+My Wallet supports smoother TON Connect behavior and multi-device dApp sessions.
 
 ## Connecting Your Wallet
 
@@ -65,7 +65,7 @@ Explore also shows shortcuts for connected dApps.
 
 ## Data Signing
 
-MyWallet also supports **signing data in dApps** through TON Connect, including messages, files, smart-contract payloads, and other structured requests.
+My Wallet also supports **signing data in dApps** through TON Connect, including messages, files, smart-contract payloads, and other structured requests.
 
 ## Safety Tips
 

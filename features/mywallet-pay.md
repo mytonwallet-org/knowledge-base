@@ -1,8 +1,8 @@
-# MyWallet Pay
+# My Wallet Pay
 
 ## What It Is
 
-MyWallet Pay is a wallet-payment feature for paying with crypto in supported online stores.
+My Wallet Pay is a wallet-payment feature for paying with crypto in supported online stores.
 
 ## Current Scope
 
@@ -12,4 +12,4 @@ MyWallet Pay is a wallet-payment feature for paying with crypto in supported onl
 
 ## Important Note
 
-This feature currently has limited KB detail. If a user asks how to pay in a specific store, check whether that store explicitly supports MyWallet Pay in the current product flow.
+This feature currently has limited KB detail. If a user asks how to pay in a specific store, check whether that store explicitly supports My Wallet Pay in the current product flow.

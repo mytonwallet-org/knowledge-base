@@ -6,7 +6,7 @@ This file summarizes community and program announcements without mixing them int
 
 ## Ambassador Programs
 
-MyTonWallet has run at least two ambassador program seasons. These programs focus on:
+My Wallet has run at least two ambassador program seasons. These programs focus on:
 
 - Creator and UGC participation
 - Reward ranges and bonuses
@@ -15,7 +15,7 @@ MyTonWallet has run at least two ambassador program seasons. These programs focu
 
 These are historical program announcements, not core wallet functionality.
 
-## MyTonWallet Air QA Contest
+## My Wallet Air QA Contest
 
 The Air QA contest post described how testers could:
 
@@ -26,10 +26,10 @@ The Air QA contest post described how testers could:
 
 This was a time-limited testing program.
 
-## MyTonWallet Air Security Bounty Program
+## My Wallet Air Security Bounty Program
 
-The security bounty post described a time-limited community security program for MyTonWallet Air. It pointed researchers to the published source and listed the kinds of security issues the team was interested in reviewing.
+The security bounty post described a time-limited community security program for My Wallet Air. It pointed researchers to the published source and listed the kinds of security issues the team was interested in reviewing.
 
 ## Air Developer Contests
 
-The developer contests post announced prize-based QA and security tracks around MyTonWallet Air. It is useful as history, but it is not an end-user support guide.
+The developer contests post announced prize-based QA and security tracks around My Wallet Air. It is useful as history, but it is not an end-user support guide.

@@ -26,7 +26,7 @@ Opens inside Telegram with the same core features. Some platform-specific featur
 - **Send** — transfer tokens to an address or TON DNS domain
 - **Receive** — show your address and QR code
 - **Swap** — exchange one token for another
-- **Stake** — earn rewards by staking TON (visible when you hold TON)
+- **Stake** — earn rewards by staking Gram (visible when you hold Gram)
 - **Buy** — purchase crypto with a bank card via Moonpay
 
 ## Tips

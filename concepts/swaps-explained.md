@@ -7,13 +7,13 @@ A swap is exchanging one cryptocurrency for another. Instead of selling your tok
 ## DEX vs CEX
 
 ### DEX (Decentralized Exchange)
-A DEX is a smart contract on the blockchain that lets people trade tokens directly with each other — no middleman. When you swap tokens on the same chain (e.g., TON → USDT on TON), the trade happens through a DEX.
+A DEX is a smart contract on the blockchain that lets people trade tokens directly with each other — no middleman. When you swap tokens on the same chain (e.g., Gram → USDT on TON), the trade happens through a DEX.
 
 **Pros**: No registration, no KYC, your funds never leave your wallet
 **Cons**: Only works within the same blockchain, prices depend on available liquidity
 
 ### CEX (Centralized Exchange)
-A CEX is a company that holds funds and matches buyers with sellers (like Binance or Coinbase). MyWallet uses Changelly for cross-chain swaps — when you swap between different blockchains (e.g., TON → TRX).
+A CEX is a company that holds funds and matches buyers with sellers (like Binance or Coinbase). My Wallet uses Changelly for cross-chain swaps — when you swap between different blockchains (e.g., Gram → TRX).
 
 **Pros**: Can swap between any supported chains
 **Cons**: May require minimum amounts, takes longer, involves a third party

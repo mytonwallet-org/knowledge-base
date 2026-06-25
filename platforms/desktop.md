@@ -4,7 +4,7 @@ A standalone desktop application for Windows, macOS, and Linux.
 
 ## Installation
 
-Download from the official MyWallet website. Available for:
+Download from the official My Wallet website. Available for:
 - **macOS**: `.dmg` installer
 - **Windows**: `.exe` installer
 - **Linux**: `.AppImage` or `.deb`

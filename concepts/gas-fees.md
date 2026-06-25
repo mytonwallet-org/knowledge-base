@@ -7,7 +7,7 @@ Every blockchain transaction needs to be processed and confirmed by the network.
 ## How Fees Work
 
 When you send crypto, a small fee is deducted and paid to the network. You always pay the fee in the blockchain's **native token**:
-- TON transactions → fee paid in **TON**
+- TON transactions → fee paid in **Gram**
 - TRON transactions → fee paid in **TRX** (or energy/bandwidth)
 - Solana transactions → fee paid in **SOL**
 
@@ -16,7 +16,7 @@ This means you need some native tokens even if you only want to send other token
 ## Fee Amounts by Chain
 
 ### TON
-- Very low — typically fractions of a TON
+- Very low — typically fractions of a Gram
 - Consistent and predictable
 - Almost negligible for most users
 
@@ -43,4 +43,4 @@ The app shows the estimated fee **before you confirm** every transaction. The ac
 
 ## "Insufficient Balance for Fee"
 
-This common error means you don't have enough of the native token to pay the transaction fee. For example, if you want to send all your USDT on TON, you still need a small amount of TON for the fee. Solution: keep a small native token balance at all times.
+This common error means you don't have enough of the native token to pay the transaction fee. For example, if you want to send all your USDT on TON, you still need a small amount of Gram for the fee. Solution: keep a small native token balance at all times.

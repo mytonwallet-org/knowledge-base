@@ -37,11 +37,11 @@ On TON, you can also use **encrypted comments** so that only the sender and reci
 
 Every blockchain charges a network fee:
 
-- **TON**: typically very low
+- **TON**: typically very low, paid in Gram
 - **TRON**: depends on TRX, energy, and bandwidth rules
 - **Solana**: very low fixed fees, plus possible rent for new token accounts
 
-The app shows estimated fees before confirmation. In most cases, you pay the fee in the chain's native token. Some TON token transfers can use gasless mode instead. See `features/gasless.md`.
+The app shows estimated fees before confirmation. In most cases, you pay the fee in the chain's native token. Some token transfers on TON can use gasless mode instead. See `features/gasless.md`.
 
 ## Sending The Full Balance
 

@@ -6,7 +6,7 @@ Tokens are digital assets that live on a blockchain. There are two kinds:
 
 ### Native Tokens
 Each blockchain has one native token used to pay network fees:
-- **TON** on the TON blockchain
+- **Gram** on the TON blockchain
 - **TRX** on the TRON blockchain
 - **SOL** on the Solana blockchain
 

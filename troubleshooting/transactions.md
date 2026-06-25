@@ -13,7 +13,7 @@ If a transaction has been pending for over 15 minutes, it likely failed silently
 ## Transaction Failed
 
 Common reasons:
-- **Insufficient balance for fee** — you need the native token (TON/TRX/SOL) to cover the network fee, even when sending other tokens.
+- **Insufficient balance for fee** — you need the native token (Gram/TRX/SOL) to cover the network fee, even when sending other tokens.
 - **Insufficient energy/bandwidth (TRON)** — TRC-20 transfers require energy. If you don't have enough, the fee is paid in TRX. Make sure you have enough TRX.
 - **Slippage exceeded (swaps)** — the price moved beyond your slippage tolerance. Try again or increase slippage.
 - **Smart contract error** — the receiving contract rejected the transaction. This can happen with dApp interactions.

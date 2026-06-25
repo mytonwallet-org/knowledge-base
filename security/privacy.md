@@ -25,7 +25,7 @@ On mobile, when you copy an address or other sensitive data:
 
 ## Non-Custodial
 
-MyWallet never has access to your private keys or recovery phrase. We cannot:
+My Wallet never has access to your private keys or recovery phrase. We cannot:
 - Access your funds
 - Make transactions on your behalf
 - Recover your wallet if you lose your phrase

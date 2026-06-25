@@ -1,6 +1,6 @@
-# MyWallet Resources & Links
+# My Wallet Resources & Links
 
-Official channels, community, and support resources for MyWallet.
+Official channels, community, and support resources for My Wallet.
 
 ---
 
@@ -14,7 +14,7 @@ Official channels, community, and support resources for MyWallet.
 ## Support
 
 - **Help Center**: https://help.mywallet.io/ — searchable knowledge base with guides and FAQs
-- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the MyWallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
+- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the My Wallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
 
 ## Blog
 
