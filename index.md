@@ -173,7 +173,7 @@ Use the Activity feed. It shows transfers, swaps, staking actions, NFT activity,
 Visit the Help Center at https://help.mywallet.io/ or reach out via Telegram at https://t.me/mysupport. Important: the My Wallet team will never message you first — anyone who does is a scammer. See `resources.md`.
 
 ### Where can I follow My Wallet for updates?
-Telegram: https://t.me/MyWalletEng, X/Twitter: https://x.com/mytonwallet_io, Blog: https://mywallet.io/blog. See `resources.md`.
+Telegram: https://t.me/MyWalletEng, X/Twitter: https://x.com/mywallet_io, Blog: https://mywallet.io/blog. See `resources.md`.
 
 ---
 

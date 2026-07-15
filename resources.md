@@ -9,7 +9,7 @@ Official channels, community, and support resources for My Wallet.
 - **Telegram (English)**: https://t.me/MyWalletEng — official news and announcements
 - **Telegram (Russian)**: https://t.me/MyWalletRus — official news in Russian
 - **MyTonWallet Tips**: https://t.me/MyTonWalletTips — tips, guides, and how-tos
-- **X (Twitter)**: https://x.com/mytonwallet_io — updates and announcements
+- **X (Twitter)**: https://x.com/mywallet_io — updates and announcements
 
 ## Support
 
@@ -23,17 +23,17 @@ Official channels, community, and support resources for My Wallet.
 ## Download Links
 
 - **All platforms**: https://get.mywallet.io
-- **Web App**: https://mytonwallet.app
+- **Web App**: https://web.mywallet.io
 - **Telegram Mini App**: https://t.me/myapp
 - **Chrome Extension**: https://chrome.google.com/webstore/detail/mytonwallet/fldfpgipfncgndfolcbkdeeknbbbnhcc
 - **Firefox Extension**: https://addons.mozilla.org/en-US/firefox/addon/mytonwallet
-- **Edge Extension**: https://microsoftedge.microsoft.com/addons/detail/mytonwallet
+- **Edge Extension**: https://microsoftedge.microsoft.com/addons/detail/mytonwallet-%C2%B7-my-ton-wall/pgpdomeflfhcmgdbfdlociknopahmbej
 
 ## Other
 
-- **GitHub (open source)**: https://github.com/mytonwalletorg/mytonwallet
+- **GitHub (open source)**: https://github.com/mytonwallet-org/mytonwallet
 - **Security Audit (CertiK)**: https://skynet.certik.com/projects/mytonwallet
-- **Bug Bounty Program**: https://skyshield.certik.com/bounties/mytonwallet
+- **Bug Bounty Program**: https://skynet.certik.com/projects/mytonwallet?open-bounty-details=1#operational-resilience
 - **@push — Instant Transfers**: https://t.me/push — send crypto to Telegram contacts instantly
 - **PR & Partnerships**: growth@mywallet.io
 
