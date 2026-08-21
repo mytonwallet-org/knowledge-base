@@ -27,6 +27,15 @@ Enable in Settings → Security → Biometric Unlock.
 
 Biometrics provide a convenience layer — they unlock access to your encrypted password, which in turn decrypts your keys.
 
+## 2FA with Telegram
+
+Eligible TON W5 software wallets in Gram Wallet can add Telegram as a second confirmation step for supported TON operations. This is separate from local security:
+
+- The password, PIN, and biometrics protect local app access and authorization.
+- Telegram 2FA requires a separate confirmation in Telegram before a supported TON operation is broadcast.
+
+It is not SMS or authenticator-app 2FA and does not protect app login or unlock. Connect it under **Settings → Security → 2FA with Telegram**. See `security/telegram-2fa.md` for requirements, the connection fee, and unlinking instructions.
+
 ## Auto-Lock
 
 The app locks automatically after inactivity. Configure the timeout in `Settings → Security → Auto-Lock`.
