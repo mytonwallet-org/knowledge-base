@@ -1,6 +1,6 @@
-# My Wallet Resources & Links
+# My Wallet and Gram Wallet Resources & Links
 
-Official channels, community, and support resources for My Wallet.
+Official websites, downloads, community channels, and support resources for My Wallet and Gram Wallet.
 
 ---
 
@@ -14,13 +14,13 @@ Official channels, community, and support resources for My Wallet.
 ## Support
 
 - **Help Center**: https://help.mywallet.io/ — searchable knowledge base with guides and FAQs
-- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the My Wallet team will never message you first. If someone contacts you claiming to be support, it is a scam.
+- **Support Chat**: https://t.me/mysupport — direct support via Telegram. Note: the support team will never message you first. If someone contacts you claiming to be support, it is a scam.
 
 ## Blog
 
 - **Blog**: https://mywallet.io/blog — product updates, feature announcements, and tutorials
 
-## Download Links
+## My Wallet Download Links
 
 - **All platforms**: https://get.mywallet.io
 - **Web App**: https://web.mywallet.io
@@ -28,6 +28,14 @@ Official channels, community, and support resources for My Wallet.
 - **Chrome Extension**: https://chrome.google.com/webstore/detail/mytonwallet/fldfpgipfncgndfolcbkdeeknbbbnhcc
 - **Firefox Extension**: https://addons.mozilla.org/en-US/firefox/addon/mytonwallet
 - **Edge Extension**: https://microsoftedge.microsoft.com/addons/detail/mytonwallet-%C2%B7-my-ton-wall/pgpdomeflfhcmgdbfdlociknopahmbej
+
+## Gram Wallet
+
+- **Official Website**: https://gramwallet.io
+- **Downloads**: https://get.gramwallet.io
+- **Web App**: https://wallet.ton.org
+- **Help Center**: https://help.mywallet.io/ — shared product documentation and safety guidance
+- **Support Chat**: https://t.me/mysupport — the support team will never message users first
 
 ## Other
 

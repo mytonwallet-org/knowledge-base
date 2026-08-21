@@ -8,7 +8,7 @@ On the TON blockchain, your wallet is a smart contract. Different wallet version
 
 - **v3R2** — widely supported, compatible with most services
 - **v4R2** — adds plugin support
-- **W5** — latest version, supports **gasless transactions** (paying fees in tokens like USDT instead of Gram)
+- **W5** — latest version, supports **gasless transactions** (paying fees in tokens like USDT instead of Gram) and the wallet extensions used by Telegram 2FA
 
 ## Checking Your Version
 
@@ -27,7 +27,7 @@ You can upgrade to a newer wallet version from Settings → Wallet Version:
 
 ## Which Version Should I Use?
 
-- **W5** is recommended for most users — it supports gasless transactions (see `features/gasless.md`), letting you pay fees in tokens like USDT
+- **W5** is recommended for most users — it supports gasless transactions (see `features/gasless.md`) and is required for Telegram 2FA on eligible Gram Wallet TON accounts (see `security/telegram-2fa.md`)
 - **v4R2** if you need maximum compatibility with older services
 - The app suggests the best version during wallet creation
 
